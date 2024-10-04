@@ -1,5 +1,5 @@
 ---
-organizations:
+gateway_organizations:
   - name: Ames Company
     description: Ames' Automation Company
     galaxy_credentials:

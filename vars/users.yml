@@ -1,5 +1,5 @@
 ---
-gateway_user_accounts:
+gateway_users:
  - user: "{{ zigs_username }}"
    is_superuser: true
    password: "{{ zigs_passwd }}"
