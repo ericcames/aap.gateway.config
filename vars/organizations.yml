@@ -1,0 +1,36 @@
+---
+organizations:
+  - name: Ames Company
+    description: Ames' Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
+
+  - name: Lowcher Company
+    description: Lowcher's Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
+
+  - name: LeBlanc Company
+    description: LeBlanc's Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
+
+  - name: Chua Company
+    description: Chua's Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
+
+  - name: Gilbert Company
+    description: Gilbert's Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
+
+  - name: Gallego Company
+    description: Gallegos' Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
+
+  - name: Allmen Company
+    description: Allmen's Automation Company
+    galaxy_credentials:
+      - Ansible Galaxy
